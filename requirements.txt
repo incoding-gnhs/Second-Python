@@ -1,0 +1,8 @@
+flask
+holidays
+matplotlib
+pandas
+pygame
+pytz
+requests
+seaborn
